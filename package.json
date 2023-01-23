@@ -1,0 +1,22 @@
+{
+  "name": "@is-a-dev/validate",
+  "version": "1.0.0",
+  "description": "validate dns records for is-a-dev",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andrewstech/is-dev-validator.git"
+  },
+  "keywords": [
+    "dns"
+  ],
+  "author": "andrewstech",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/andrewstech/is-dev-validator/issues"
+  },
+  "homepage": "https://github.com/andrewstech/is-dev-validator#readme"
+}
