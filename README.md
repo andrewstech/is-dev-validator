@@ -28,7 +28,7 @@ npm install
 ## Usage
 
 ```sh
-const { validateCnameRecord } = require(&#34;@is-a-dev/validate&#34;);
+const { validateCnameRecord } = require("@is-a-dev/validate");
 ```
 
 ## Run tests
